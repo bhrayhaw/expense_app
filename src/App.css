@@ -2,6 +2,10 @@ body{
   background-color: #282c34;
 }
 
+body p{
+  color: #fff;
+}
+
 .App {
   text-align: center;
   /* background-color: #000; */
